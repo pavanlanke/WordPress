@@ -19,7 +19,7 @@ WebDriver driver;
 @Test(dataProvider="wordpress")
 public void loginToWordpress(String username,String password) throws Exception {
 
-System.setProperty("webdriver.chrome.driver", "C:\\Users\\pavan lanke\\eclipse-workspace\\pavan\\src\\test\\resources\\binaries\\chromedriver.exe");
+System.setProperty("webdriver.chrome.driver", "C:\\Users\\pavan lanke\\eclipse-workspace\\WordPress\\src\\test\\resources\\binaries\\chromedriver.exe");
 driver=new ChromeDriver();
 
 driver.get("http://demosite.center/wordpress/wp-login.php");
