@@ -1,0 +1,7 @@
+chromeDriver=C:\\Users\\pavan lanke\\eclipse-workspace\\pavan\\src\\test\\resources\\binaries\\chromedriver.exe
+firefoxDriver=C:\\Users\\pavan lanke\\eclipse-workspace\\pavan\\src\\test\\resources\\binaries\\geckodriver.exe
+URL=http://demosite.center/wordpress/wp-login.php
+WordPressURl=http://demosite.center/wordpress/wp-login.php
+WordPressLoginURL=http://demosite.center/wordpress/wp-admin/
+ExcelData=C:\\Users\\pavan lanke\\eclipse-workspace\\pavan\\src\\test\\resources\\XLSX\\TestData.xlsx
+Excelpath=
